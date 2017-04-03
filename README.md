@@ -13,11 +13,11 @@
 便可以進行傳送
 
 有五個url
-uri: /user/create, method:post
-uri: /user/update, method:post
-uri: /user/delete, method:post
-uri: /user/find-by-id, method:post
-uri: /user/all, method:post
+uri: /user/create, method:post<br />
+uri: /user/update, method:post<br />
+uri: /user/delete, method:post<br />
+uri: /user/find-by-id, method:post<br />
+uri: /user/all, method:post<br />
 
 
 # 環境:
