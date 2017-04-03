@@ -12,6 +12,14 @@
 ![Alt text](/WebContent/img/postman2.jpg)<br />
 便可以進行傳送
 
+有五個url
+uri: /user/create, method:post
+uri: /user/update, method:post
+uri: /user/delete, method:post
+uri: /user/find-by-id, method:post
+uri: /user/all, method:post
+
+
 # 環境:
 <pre>
 OS: windows 7
