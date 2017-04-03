@@ -2,6 +2,15 @@
 
 # 使用方式:
 
+本專案採用Spring 4 + SpringMVC + Hibernate 5 使用json的方式進行資料傳送 
+
+測試方式採用[Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=zh-TW)<br />
+進入Postman畫面後, 將設定如圖<br />
+![Alt text](/WebContent/img/postman1.jpg)<br />
+
+並設置好要傳送的url及內容<br />
+![Alt text](/WebContent/img/postman2.jpg)<br />
+便可以進行傳送
 
 # 環境:
 <pre>
